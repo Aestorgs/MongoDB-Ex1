@@ -1,5 +1,18 @@
 # MongoDB-Ex1
-Le but de cette exercice est de exercer sur du MongoDB en NoSQL  
+
+
+Contexte: but du projet : Le but de cette exercice est de exercer sur du MongoDB en NoSQL  
+
+Fonctionnalités attendues : suivre exercice 
+
+Durée : 1 jours ,
+
+Taches réalisées : Aestorgs ,
+
+Technos utilisées : MongoDB , Docker , Javascript 
+
+Outils et ressources : MongoDB
+
 
 ```bash
 $docker import the json 
